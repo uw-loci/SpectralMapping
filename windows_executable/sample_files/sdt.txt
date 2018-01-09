@@ -1,0 +1,8 @@
+
+
+the tif files are created when the sdt files are read.
+this takes ~10seconds for a 256x256x256 sdt file.
+
+
+
+jenu
